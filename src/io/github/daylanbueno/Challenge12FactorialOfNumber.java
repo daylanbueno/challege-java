@@ -1,8 +1,4 @@
 package io.github.daylanbueno;
-
-import java.util.Arrays;
-import java.util.List;
-
 /*
     Problem: Factorial of a number
     Title: Factorial of a number
