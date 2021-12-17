@@ -17,7 +17,6 @@ public class Challenge12FactorialOfNumber {
             number --;
             factorial = (factorial * number);
         } while (number > 1);
-
         System.out.println(factorial);
      }
 }
