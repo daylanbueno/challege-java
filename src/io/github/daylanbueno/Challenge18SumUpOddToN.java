@@ -10,7 +10,7 @@ import java.util.Scanner;
     input: 5  output: 9      tips(1+3+5=9)
     input: 10 output: 25     tips(1+3+5+7+9=25)
 */
-public class Challenge17SumUpOddToN {
+public class Challenge18SumUpOddToN {
 
      public static void main(String [] args) {
          Scanner in = new Scanner(System.in);
