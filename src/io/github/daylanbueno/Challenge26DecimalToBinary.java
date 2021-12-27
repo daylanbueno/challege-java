@@ -16,6 +16,6 @@ public class Challenge26DecimalToBinary {
          Scanner in = new Scanner(System.in);
          System.out.println("Enter an integer");
          Integer number = in.nextInt();
-         System.out.println(Integer.toBinaryString(number));
+         System.out.println("Binary: "+Integer.toBinaryString(number));
      }
 }
